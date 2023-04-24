@@ -1,0 +1,9 @@
+../Core/Inc/PS2/PS2.c:13:6:delay_us	16	static
+../Core/Inc/PS2/PS2.c:19:9:PS2_SendByte	24	static
+../Core/Inc/PS2/PS2.c:41:6:PS2_Cmd	40	static
+../Core/Inc/PS2/PS2.c:51:6:PS2_Poll	24	static
+../Core/Inc/PS2/PS2.c:57:6:PS2_EnterConfig	24	static
+../Core/Inc/PS2/PS2.c:63:6:PS2_AnalogMode	32	static
+../Core/Inc/PS2/PS2.c:69:6:PS2_ExitConfig	32	static
+../Core/Inc/PS2/PS2.c:75:6:PS2_Init	16	static
+../Core/Inc/PS2/PS2.c:88:6:PS2_Update	32	static
