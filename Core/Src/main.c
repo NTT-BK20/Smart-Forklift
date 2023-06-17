@@ -564,7 +564,6 @@ int main(void)
 	TM_MFRC522_Init();
 	PS2_Init(&htim1, &PS2);
 	lcd_init();
-	LCD();
 	HAL_TIM_Base_Start(&htim1);
 	HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_1);
 	HAL_TIM_PWM_Start(&htim4, TIM_CHANNEL_1);
